@@ -17,6 +17,9 @@ body {
 .name > a {
   text-decoration: none;
 }
+.name > a:link {
+  color: black;
+}
 .name > a:visited {
   color: black;
 }
