@@ -46,3 +46,6 @@ body {
   max-width: 350px;
   margin: 10px;
 }
+.update {
+  position: fixed;
+}
